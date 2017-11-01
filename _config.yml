@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+#https://aloliies.github.io/alollies.github.io/
 # Site settings
 title: Yummy Theme # ex. I m Chuan
 name: Your Name # ex. DONGChuan
@@ -12,7 +13,7 @@ email: my_email_address@lalala.com
 location: My location # ex. Nice, France
 company: MyCompany
 company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/DONGChuan
+github_url: my_github_url # ex. https://github.com/ALoliies
 github_username: # ex. DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
@@ -20,7 +21,7 @@ repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://dongchuan.github.io
+# For production, use your github page url. ex. https://aloliies.github.io/alollies.github.io/
 url: http://localhost:4000
 
 ## Gem
